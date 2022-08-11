@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+#object{
+    display: flex;
+    flex:80%;
+    text-align: center;
+    height: 600px;
+    text-transform: uppercase;
+    display: grid;}
+#object a{
+    width: 100%;
+    background-color:white;
+    color:black;
+}
+#object button{
+    width: 100%;
+    opacity: 2000px;
+    background-color:white;
+    color:black;
+    text-transform: uppercase;
+    display: inline-block;
+    flex-wrap:60px;
+    font-size: large;
+    text-align: center;
+    border:1px solid black;;
+    font-weight: bolder;
+    font-family: 'Edu NSW ACT Foundation', sans-serif;
+    height: 60px;
+}
+#object button:hover{
+    background-color: #5990F6;
+    COLOR:WHITE;
+}
+h1{color:white;
+    font-family: 'Lobster', Arial, Helvetica, sans-serif;
+    border:2px solid black;
+    background-color:#1F4E5A;
+    text-align: center;
+
+}
+#object p{
+    border: 1px  solid purple;
+    color : white;
+    font-size: large;
+font-weight: bolder;
+
+    font-family: 'Cormorant SC', serif;
+
+    
+    
+    background-color:#0059FF;
+}
+FOOTER{
+    font-family: 'Rubik Moonrocks', sans-serif;
+    position:static;
+     text-align: center;
+border: 2px ;
+border-style:double;
+background-color:black;
+color:chartreuse;
+ 
+ 
+    font-style: oblique;
+margin-bottom:10PX;
+}
+body{
+    background-image:url("1.jpg");
+    background-repeat: repeat;
+    background-size:auto;
+}
+
+
+@media (max-width:599px){
+    #object button{
+        width: 100%;
+        text-transform: uppercase;
+        display: inline-block;
+        flex-wrap:60px;
+        font-size: large;
+        text-align: center;
+        border:1px solid black;;
+        font-weight: bolder;
+        font-family: 'Edu NSW ACT Foundation', sans-serif;
+        height: 60px;
+    }
+    #object button:hover{
+        background-color: #5990F6;
+        COLOR:WHITE;
+    }}
+@media(max-width:600px){
+    #object button:hover{
+        background-color: #5990F6;
+        COLOR:WHITE;
+     }}
+    @media
+    (max-width:900px){
+    
+}
+@media(max-width:1200px){
+    
+}
+@media(max-width:18s00px){
+    
+}

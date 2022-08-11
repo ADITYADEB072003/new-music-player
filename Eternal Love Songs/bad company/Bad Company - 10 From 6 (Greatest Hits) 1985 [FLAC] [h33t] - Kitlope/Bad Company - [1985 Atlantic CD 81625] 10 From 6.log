@@ -1,0 +1,181 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 17. September 2009, 15:18
+
+Bad Company / [1985 Atlantic CD 81625] 10 From 6
+
+Used drive  : PLEXTOR DVDR   PX-716A   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 30
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : Yes
+Command line compressor         : C:\Program Files\Exact Audio Copy\FLAC\FLAC.EXE
+Additional command line options : -6 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s -o %d
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:16.47 |         0    |    19246   
+        2  |  4:16.47 |  5:14.60 |     19247    |    42856   
+        3  |  9:31.32 |  5:24.28 |     42857    |    67184   
+        4  | 14:55.60 |  6:18.35 |     67185    |    95569   
+        5  | 21:14.20 |  3:23.30 |     95570    |   110824   
+        6  | 24:37.50 |  4:50.17 |    110825    |   132591   
+        7  | 29:27.67 |  3:19.48 |    132592    |   147564   
+        8  | 32:47.40 |  5:29.72 |    147565    |   172311   
+        9  | 38:17.37 |  5:02.28 |    172312    |   194989   
+       10  | 43:19.65 |  3:59.17 |    194990    |   212931   
+
+
+Track  1
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\01. Bad Company - Can't Get Enough.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 97.0 %
+     Track quality 100.0 %
+     Test CRC 7CAF8490
+     Copy CRC 7CAF8490
+     Accurately ripped (confidence 5)  [39A603CE]
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\02. Bad Company - Feel Like Makin' Love.wav
+
+     Pre-gap length  0:00:02.55
+
+     Peak level 78.5 %
+     Track quality 99.9 %
+     Test CRC 30EE15DA
+     Copy CRC 30EE15DA
+     Accurately ripped (confidence 5)  [04AB7250]
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\03. Bad Company - Run With The Pack.wav
+
+     Pre-gap length  0:00:02.62
+
+     Peak level 78.7 %
+     Track quality 100.0 %
+     Test CRC 178BF484
+     Copy CRC 178BF484
+     Accurately ripped (confidence 6)  [D8A50460]
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\04. Bad Company - Shooting Star.wav
+
+     Pre-gap length  0:00:02.55
+
+     Peak level 82.5 %
+     Track quality 100.0 %
+     Test CRC 368E0446
+     Copy CRC 368E0446
+     Accurately ripped (confidence 5)  [C6C540E4]
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\05. Bad Company - Movin' On.wav
+
+     Pre-gap length  0:00:02.55
+
+     Peak level 79.9 %
+     Track quality 100.0 %
+     Test CRC 21BC56DE
+     Copy CRC 21BC56DE
+     Accurately ripped (confidence 5)  [39F86974]
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\06. Bad Company - Bad Company.wav
+
+     Pre-gap length  0:00:02.55
+
+     Peak level 90.9 %
+     Track quality 99.9 %
+     Test CRC 0B2685F5
+     Copy CRC 0B2685F5
+     Accurately ripped (confidence 5)  [160E63DB]
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\07. Bad Company - Rock 'N' Roll Fantasy.wav
+
+     Pre-gap length  0:00:02.55
+
+     Peak level 82.0 %
+     Track quality 100.0 %
+     Test CRC 19AACC12
+     Copy CRC 19AACC12
+     Accurately ripped (confidence 5)  [65F84124]
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\08. Bad Company - Electric Land.wav
+
+     Pre-gap length  0:00:02.55
+
+     Peak level 84.0 %
+     Track quality 100.0 %
+     Test CRC DC85C74A
+     Copy CRC DC85C74A
+     Accurately ripped (confidence 5)  [7DD176A3]
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\09. Bad Company - Ready For Love.wav
+
+     Pre-gap length  0:00:03.55
+
+     Peak level 97.7 %
+     Track quality 100.0 %
+     Test CRC 8AE94EC4
+     Copy CRC 8AE94EC4
+     Accurately ripped (confidence 5)  [FC89B2EA]
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\Administrator\My Documents\EAC Rips\10. Bad Company - Live For The Music.wav
+
+     Pre-gap length  0:00:02.55
+
+     Peak level 83.8 %
+     Track quality 100.0 %
+     Test CRC D2292F86
+     Copy CRC D2292F86
+     Accurately ripped (confidence 5)  [D71FE465]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report
